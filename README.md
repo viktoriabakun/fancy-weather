@@ -6,7 +6,7 @@
 
 </div>
 
-![](https://github.com/viktoriabakun/fancy-weather/tree/main/src/assets/gifs/weather-change.gif)
+![](https://github.com/viktoriabakun/fancy-weather/blob/main/src/assets/gifs/weather-change.gif)
 
 # Demo
 Coming soon...
